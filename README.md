@@ -1,4 +1,4 @@
-require node_modules
+require node_modules,
 command to execute-
-npm install
+npm install and
 npm start
